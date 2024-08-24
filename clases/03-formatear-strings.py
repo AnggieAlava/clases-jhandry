@@ -1,5 +1,8 @@
 # Imprimir usando format strings
-ombre = "Jahndry"
+nombre = "Jan"
 apellido = "Colorado"
-nombre_completo = f"{nombre} {apellido}"
+nombre_completo = f" Este chico se llama {nombre} pero su apellino es {apellido}"
 print(nombre_completo)
+
+
+
